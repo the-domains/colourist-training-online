@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Colourist Training Online]]></title>
-        <description><![CDATA[Colourist Training Online]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Colorist Training]]></title>
+        <description><![CDATA[Colorist Training]]></description>
+        <link>http://colorist-training.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 14:18:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 16:41:09 GMT</lastBuildDate>
+        <atom:link href="http://colorist-training.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/58347a1b-fdd4-452e-919a-1c3945db2214.jpg">]]></description>
-            <link>undefinedcoming-soon/index.html</link>
+            <title><![CDATA[ ]]></title>
+            <description><![CDATA[<article><h1></h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ccf72fa-9a2e-4d57-b9d3-63f45d0b9856.jpg"></article>]]></description>
+            <link>http://colorist-training.com/coming-soon/index.html</link>
             <guid isPermaLink="false">bd9e2b66-ed39-4bc7-8f33-da2b17632e22</guid>
-            <pubDate>Mon, 25 Apr 2016 14:18:02 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2016 16:39:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

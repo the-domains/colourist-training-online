@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Coming Soon!'
-datePublished: '2016-04-25T14:18:02.236Z'
-dateModified: '2016-04-25T14:17:33.122Z'
-title: ''
+description: ''
+datePublished: '2016-04-25T16:39:31.046Z'
+dateModified: '2016-04-25T16:39:17.977Z'
+title: ' '
 author: []
+sourcePath: _posts/2016-04-25-coming-soon.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,12 +18,12 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-coming-soon.md
-published: true
 url: coming-soon/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58347a1b-fdd4-452e-919a-1c3945db2214.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ccf72fa-9a2e-4d57-b9d3-63f45d0b9856.jpg)
 
-Coming Soon!
+# 
+
+# Coming Soon!

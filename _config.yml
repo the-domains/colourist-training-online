@@ -1,6 +1,6 @@
 name: Colorist Training
 favicon: null
-layout_spectrum: 0.7404
+layout_spectrum: 0.90067
 typography_spectrum: 0.7571
 title: Colorist Training
 cta:
@@ -23,7 +23,7 @@ color:
     - '#3A6EA5'
     - '#004E98'
   brandStrength: 0.5625
-  lightness: 0.6875
+  lightness: 0.3125
   saturation: 0.375
   rhythmicContrast: 0.25
 purpose: []
